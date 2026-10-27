@@ -74,4 +74,4 @@ class MTB_Design(Workbench):
         return "Gui::PythonWorkbench"
 
 
-Gui.addWorkbench(MTB_Design_WB())
+Gui.addWorkbench(MTB_Design())
