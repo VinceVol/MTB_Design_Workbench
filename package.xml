@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>MTB Design</name>
+  <description>Design mountain bike master sketches to match desired suspension characteristics around rider specs</description>
+  <version>1.00.00</version>
+  <date>2026-10-27</date>
+  <url type="repository" branch="main">https://github.com/VinceVol/MTB_Design_Workbench</url>
+  <url type="documentation">https://github.com/VinceVol/MTB_Design_Workbench/README.md</url>
+  <icon>Resources/icons/MTB Design Icon.svg</icon>
+
+  <content>
+    <workbench>
+      <name>MTB Design</name>
+      <classname>MTB_Design_Workbench</classname>
+      <subdirectory>./</subdirectory>
+      <freecadmin>0.19.0</freecadmin>
+    </workbench>
+  </content>
+
+</package>
