@@ -1,0 +1,11 @@
+{
+    "profile_name": "Dummy Rider",
+    "rider_characteristics": {
+        "inseam_leg_length": 820.0,
+        "arm_length": 650.0,
+        "torso_length": 600.0,
+        "rider_weight": 75.0,
+        "weight_units": "kg",
+        "length_units": "mm"
+    }
+}
