@@ -5,3 +5,4 @@ edition = "2024"
 
 [dependencies]
 glam = "0.34.1"
+macroquad = "0.4.16"
